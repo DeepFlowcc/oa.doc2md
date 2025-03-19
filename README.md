@@ -1,6 +1,6 @@
 ## Docx to Markdown Tool for LLM RAG (Offline Usage) – Inspired by MarkItDown (JavaScript-only)
 
-This Docx to Markdown Tool is a JavaScript-based utility designed for converting DOCX files into Markdown format, specifically crafted for offline use in LLM (Large Language Model) Retrieval-Augmented Generation (RAG) workflows. Inspired by the MarkItDown project, this tool operates entirely in the browser or locally without the need for a server, ensuring full privacy and security of your documents.
+This Docx to Markdown Tool is a JavaScript-based utility designed for converting DOCX files into Markdown format, specifically crafted for offline use in LLM (Large Language Model) Retrieval-Augmented Generation (RAG) workflows. Inspired by the MarkItDown project, this tool operates entirely in the browser or locally without the need for a server, ensuring full privacy and security of your documents.created in [deepflow.cc](https://deepflow.cc)
 
 ## Key Features:
 
